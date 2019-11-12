@@ -1,0 +1,39 @@
+Ian Ketelson
+11/4/2019
+
+
+Windows 10:
+
+Advantages
+
+?	Ease of use
+?	Widespread compatibility
+?	Device independent
+?	Responsive UI
+?	Xbox app integration, good for gaming
+?	Actually decent built in antivirus
+
+Disadvantages
+?	The update routine is annoying, runs up CPU/Disk usage, and will sometimes force you to update
+?	Higher chance of getting viruses due to its widespread use
+?	Dual monitor issues occasionally
+?	Microsoft bloatware
+
+
+
+Linux:
+
+Advantages
+?	Fully customizable
+?	No viruses for the most part
+?	Many different distributions to fit what you need
+?	Hosts servers well
+?	Open source
+?	Some distributions are under a gig in size, good for smaller projects
+
+Disadvantages:
+?	Not very user friendly, a lot of console work
+?	Not a lot of compatibility, usually programs have to be made specifically for linux for them to work
+?	Harder to update
+?	Hard to learn 
+?	Can be hard to install
